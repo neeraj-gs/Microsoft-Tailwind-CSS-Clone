@@ -1,0 +1,26 @@
+{
+  "name": "microsoft-tailwind-css-clone",
+  "version": "1.0.0",
+  "description": "This is a Microsoft Clone Created Using TailWind CSS. This Project was creted with Responsiveness and it was created as a practice of Tailwind CSS.",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neeraj-gs/Microsoft-Tailwind-CSS-Clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neeraj-gs/Microsoft-Tailwind-CSS-Clone/issues"
+  },
+  "homepage": "https://github.com/neeraj-gs/Microsoft-Tailwind-CSS-Clone#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.27",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.8"
+  }
+}
