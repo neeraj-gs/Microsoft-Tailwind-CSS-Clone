@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,20 +8,39 @@
     <link rel="stylesheet" href="input.css">
     <title>Microsoft-Cloud,Computers,Apps & Gaming</title>
 </head>
+
 <body>
     <div class="navbar flex justify-between items-center p-4 ">
-    <div class="flex justify-center items-center">
-        <div class="dropdown cursor-pointer p-4">
-            <div class="line h-0.5 w-6 my-1 bg-black"></div>
-            <div class="line h-0.5 w-6 my-1 bg-black"></div>
-            <div class="line h-0.5 w-6 my-1 bg-black"></div>
+        <div class="flex justify-center items-center md:order-2">
+            <div class="dropdown cursor-pointer p-4 md:hidden">
+                <div class="line h-0.5 w-6 my-1 bg-black"></div>
+                <div class="line h-0.5 w-6 my-1 bg-black"></div>
+                <div class="line h-0.5 w-6 my-1 bg-black"></div>
+            </div>
+            <div class="search md:hidden">Search</div>
         </div>
-        <div class="search">Search</div>
+
+        <div class="logo text-center md:order-1 flex">
+            <div>Microsoft</div>
+
+            <div class="navEle flex mx-4 space-x-2">
+                <div class="item">MIcrosoft 365</div>
+                <div class="item"> Office</div>
+                <div class="item">Windows</div>
+                <div class="item">Surfacce</div>
+                <div class="item">Xbox</div>
+                <div class="item">Support</div>
+            </div>
+
+        </div>
+        <div class="cart text-center md:order-3 flex">
+            <div class="search hidden md:block">Search</div>
+            <div>
+                Cart Account
+            </div>
+        </div>
     </div>
 
-        <div class="logo text-center">Microsoft</div>
-        <div class="cart text-center">Cart Account</div>
-    </div>
-    
 </body>
+
 </html>
