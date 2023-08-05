@@ -1,6 +1,7 @@
 Short NOtes on Tailwind CSS 
 
 When there is an exact design and With tailwind CSS we can easily implemetn that design
+To make a website responsive always create for smaller devices and tehn go to larger ones 
 
 
 
