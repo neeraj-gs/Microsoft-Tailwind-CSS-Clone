@@ -8,7 +8,9 @@ Frist create a skeleton with plain text later we can add the logos
 THen increase the device width and then see how you want to add the responsiveness based on ncrease of width
 
 To Create a resposnove ones , as a breakpoint is hit do the follwoing
+Order is a propoety for flex-box , that changes can we  cn add order-n so taht it is preestn in that order we provide
 
+Create Diffrent Elements by wrapping it and then using flex box or any class on parent compoentn and mkaing it better
 
 
 
