@@ -1,0 +1,20 @@
+Short NOtes on Tailwind CSS 
+
+When there is an exact design and With tailwind CSS we can easily implemetn that design
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
