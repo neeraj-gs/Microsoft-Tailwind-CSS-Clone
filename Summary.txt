@@ -3,7 +3,11 @@ Short NOtes on Tailwind CSS
 When there is an exact design and With tailwind CSS we can easily implemetn that design
 To make a website responsive always create for smaller devices and tehn go to larger ones 
 
+First Try and Get the smallest device tehn create skeletons for each par tof page 
+Frist create a skeleton with plain text later we can add the logos
+THen increase the device width and then see how you want to add the responsiveness based on ncrease of width
 
+To Create a resposnove ones , as a breakpoint is hit do the follwoing
 
 
 
